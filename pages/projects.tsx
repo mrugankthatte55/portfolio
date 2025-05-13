@@ -1,1 +1,0 @@
-export default function Projects() { return <div className='text-white p-8'>Projects Page (To be filled)</div>; }
