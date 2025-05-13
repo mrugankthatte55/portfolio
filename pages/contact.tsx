@@ -1,0 +1,1 @@
+export default function Contact() { return <div className='text-white p-8'>Contact Page (To be filled)</div>; }

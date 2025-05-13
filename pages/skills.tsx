@@ -1,0 +1,1 @@
+export default function Skills() { return <div className='text-white p-8'>Skills Page (To be filled)</div>; }

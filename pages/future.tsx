@@ -1,0 +1,1 @@
+export default function FutureScope() { return <div className='text-white p-8'>Future Scope Page (To be filled)</div>; }

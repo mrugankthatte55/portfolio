@@ -1,0 +1,1 @@
+export default function About() { return <div className='text-white p-8'>About Me Page (To be filled)</div>; }
