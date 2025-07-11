@@ -1,0 +1,669 @@
+my skills:
+Skill board
+Client Development Services
+Software Development and Engineering
+API Technologies
+RESTful APIs
+Build and Deployment Tools
+CI/CD
+Frameworks and Libraries
+Spring Framework
+Web Development
+Backend Frameworks
+Spring Boot
+Frontend Frameworks
+React
+Languages
+Markup Languages
+CSS
+HTML5
+Programming Languages
+C
+C++
+Java
+Python
+Scripting Languages
+Bash
+CSS
+JavaScript
+Python
+Shell script
+Security Practices
+Software Development Methodologies
+Agile Methodologies
+Systems Architecture and Design
+API Design
+Postman
+Testing and Quality Tools
+Quality Assurance and Testing
+Test Case Design
+Tools and Environments
+Operating System
+Linux
+Project Management Tools
+Jira
+Version Control Systems
+Git
+
+
+
+Certifications
+Client Development Services
+Product and Project Management
+Business Analyst
+Client Services
+IT Program Manager
+Product Management
+Consulting
+Product
+Project Management
+Scrum Master
+Quality Assurance and Testing
+QA Automation
+Automation Architecture
+Capybara
+CasperJS
+Frameworks
+Appium
+Atomic Framework
+AVA
+BrowserStack (Web and Mobile Browser Testing)
+Chai
+Coverage (Python Test Reporting)
+Cypress
+Jasmine
+JMeter
+Playwright
+Pytest
+Robot Framework
+Roku
+Scrappy (Python)
+Selenium
+WebDriverIO
+Gradle
+Performance Testing
+Cucumber (BDD)
+Gatling
+k6 (testing)
+QA Manual
+Bug Management
+Functional Testing
+Integration and API Testing
+QA Metrics
+Schema and Contract Testing
+Test Planning and Test Pyramid
+UAT and Homologation Testing
+Unit Testing
+Jest
+JUnit
+Karma
+Loki
+Maven
+Mocha
+Mockito
+Pact (Contract Testing)
+Vitest
+Webassembly (Embedded Systems)
+XUnit
+Web Scraping
+Soft Skills
+Client Management
+Collaboration
+Code Reviews
+Pair Programming
+Teamwork
+Communication
+Active Listening
+Clear Articulation
+Executive Communication
+Technical Communication
+Technical Writing
+Continuous Learning
+Adaptability
+Curiosity
+Staying Updated with Tech Trends
+Leadership
+Conflict Resolution
+Decision-Making
+Executive Presence
+Mentoring
+Performance Review / Feedback
+Project Goal Setting
+Project Leadership
+Risk & Issue Management
+Risk Management
+Stakeholder Management
+Task Priorization
+Team Management
+Stakeholder Communication
+Problem-Solving
+Analytical Thinking
+Creative Solutions
+Debugging Techniques
+Emotional Intelligence
+Product Management
+Project Management
+US Client Experience
+Software Development and Engineering
+API Technologies
+API Integration
+Canvas API
+Chat Applications (XMPP)
+Cloud Integration
+Communication Platform
+GraphQL Directives
+Payment Services
+Killbill.io
+Payment Gateways
+Paypal
+Stripe
+Stripe Payments
+Protobuffer
+Protocol Buffers
+RESTful APIs
+Sparkpost
+Twillio
+TypeGraphQL
+Build and Deployment Tools
+Apache Airflow
+App Deployment
+Apple App Store Publishing
+App Publishing
+Automation Tools
+CI/CD
+Flux V2
+Google Play Store Publishing
+iOS/Android Deployment
+Lerna
+Pipeline
+Shippable
+Consulting and Service Providers
+Alation
+Credera
+PwC
+TekSystems
+Thoughtworks
+Databases and Data Stores
+Apache Hadoop
+Azure Blob
+Big Data Technologies
+Apache Beam
+Apache Flink
+Apache Hadoop
+Apache Hudi
+Apache Iceberg
+Apache Kafka
+Apache Kafka - Message Conversation
+Azure Data Factory
+Bigtable
+Databricks
+DBT
+Parquest
+Data Warehouse
+Delta
+Delta Lake
+ETL
+AWS Glue
+ETL/Hadoop
+Fivetran
+Hive
+OLAP
+Palantir
+PySpark
+RAG Pipelines
+Snowflake
+Spark
+BigQuery
+Clustering
+Cosmos DB
+Data Cleaning
+Dataflow
+Data Governance
+Data Lake
+Data Management Tools
+Database Migration
+DataSet(Scalyr)
+ORM (Object-Relational Mapping)
+Connex (ORM)
+Django ORM
+Drizzle
+Entity Framework
+Hibernate
+JooQ
+Knex
+Knex
+Mikro-ORM
+Mongoose
+Mongoose - Lean queries
+Mongoose - Middleware
+Mongoose - Model
+Objective.js (ORM)
+Prisma
+Room (Android)
+Sequelize
+SQL Alchemy
+SQLDelight
+TypeORM
+PII data architecture
+Data Modeling
+Data Pipelines
+Data Transformation
+Data Warehousing
+Indexing
+Messaging
+Apache ActiveMQ
+Apache Kafka
+Apache Pulsar
+AWS SNS
+AWS SQS
+Azure Event Grid
+Azure Service Bus
+CloudAMQP
+Cloud Pub/Sub
+IBM MQ
+RabbitMQ
+Solace Pub/Sub
+ZeroMQ
+NoSQL
+NoSQL
+Column Stores
+Document Stores
+Graph Databases
+Key-Value Stores
+Partitioning
+Percona
+Relational Databases (SQL)
+Alembic (Migration tool For Python)
+Amazon Aurora
+Google Cloud SQL
+IBM DB2
+MariaDB
+MySQL
+Oracle
+PostgreSQL
+Postgresql Extensions
+plpgsql
+Postgraphile
+RDS
+SQLite
+Sql Server
+Sql Server
+Teradata
+Replication
+Search Engines
+Apache Lucene
+Apache Solr
+Sharding
+Spark
+SQL Queries
+SSIS (Statistics package)
+Time Series Databases
+Influx DB
+Timescale
+Development Tools
+Angular CLI
+Bugzilla
+Davinci Resolve (Video editor)
+DBeaver
+Draw.io
+Gimp
+Inkscape
+Kdenlive
+MantisBT
+MermaidJS
+MS Access
+MS Word
+Pencil
+Pixate
+PIxelmator
+RoboHelp
+Sharepoint
+DevOps and Infrastructure
+Artifact Repositories Artifactory
+AWS CDK
+Backup and Recovery
+CI/CD
+Cloud Composer
+Cloud Infrastructure
+Cloud Migration
+Cloud Platforms
+Containerization & Orchestration
+Cost Optimization
+Disaster Recovery
+GCP
+Incident Management
+Infrastructure as Code
+Load Balancing
+Monitoring and Logging
+Monitoring and Logging Prometheus
+Network Configuration
+Networking
+Resource Management
+Service Reliability
+Site Migrations
+Virtualization
+Virtual Machines
+Domain-Specific Skills
+Emerging Technologies
+Enterprise Systems and Platforms
+Frameworks and Libraries
+Apache Beam
+Chromium
+Component Libraries
+Component Lifecycle
+Data Science & Machine Learning
+Apache Airflow
+Apache Superset
+FastAI
+H2O.ai
+Jupyter Notebook
+Keras
+Looker Studio
+NumPy
+Pandas
+Power BI
+PyTorch
+Scikit-Learn
+Tableau
+TensorFlow
+Django
+Framer Motion
+Game Development
+Godot
+Kiwi (Python)
+Physics Simulation
+Unreal Engine
+Hooks
+JPA
+LOMBOK
+MEAN
+Medusa.js
+MERN
+Mobile Development
+NestJS
+PERN
+Phoenix (Elixir)
+Play Framework (Scala.Java)
+Prism
+Redux
+Sidekiq
+Spring Framework
+State Management
+Three.js
+Web Development
+Languages
+DAX
+Functional Languages
+Clojure
+Elixir
+Erlang
+F#
+Haskell
+GLSL Shaders
+LINQ
+Markup Languages
+CSS
+HTML5
+HTML5
+MJML (Mailjet Markup Language)
+SCSS/SASS
+XAML
+XML
+M Language
+Multithreading
+Power Query
+Programming Languages
+ActionScript 3
+Apex
+Apollo
+Assembly
+AVR Assembler
+Brightscript
+C
+C#
+C++
+Cobol
+Crystal
+Dart
+Go
+Java
+Kotlin
+Looper
+MATLAB
+Objective-C
+OCaml
+OpenGL Shading Language (GLSL)
+Pascal
+PHP
+Python
+R
+Ruby
+Rust
+Scala
+Visual Basic
+Zig
+Scripting Languages
+Bash
+Bash
+Coffeescript
+CSS
+Groovy
+JavaScript
+Liquid (Shopify)
+Lua
+Perl
+PowerShell
+Python
+Regular Expressions
+Scripting
+Scripting (PowerShell
+Shell script
+SQL
+Typescript
+VBA
+Shader Programming
+Swift
+Mobile Development Tools
+Android Studio
+CloudKit
+Cocoapods
+Codemagic
+Fastlane
+Mobile Debugging
+Xcode
+Security Practices
+Access Control
+Application Security
+Cloud Compliance
+Cloud Security
+Cloud Security Frameworks
+Compliance Standards
+Cryptography
+Cybersecurity
+Cybersecurity
+Database Security
+Firewall Management
+ForgeRock
+Hardening services
+IAM Policies
+Identity and Access Management (IAM)
+Incident Response
+Network Security
+Firewalls
+Intrusion Detection Systems
+SSL/TLS Encryption
+Penetration Testing
+RLS (Row-Level Security)
+Security Auditing
+Security Protocols
+Threat Detection
+VPN
+Vulnerability Management
+Software Development Methodologies
+Agile Methodologies
+Agile Methodologies
+Behavior-Driven Development (BDD)
+MVP
+Refactoring
+Scrum
+Test-Driven Development (TDD)
+User Stories
+Systems Architecture and Design
+API Design
+APICogent (Node.js)
+Apollo Client
+Apollo Server
+GraphQL
+gRPC
+Insomnia
+JWT
+OpenAPI
+Polka
+Postman
+RESTful APIs
+SOAP APIs
+API Documentation
+Architectural Styles
+Cloud Architecture
+Dependency Injection
+Design Patterns
+High Availability
+Network Architecture
+Performance Optimization
+Performance Tuning
+Scaling
+Testing and Quality Tools
+A/B Testing
+Amplitude
+API Testing
+Bug Tracking
+CodeceptJS
+Continuous Testing
+Cross-Browser Testing
+Defect Reporting
+Defect Tracking
+E2E Test
+Functional Specifications
+Hotjar
+Integrated Tests
+Lighthouse Audits
+Mink
+Nosetests
+PhantomJS
+Puppeteer
+Quality Assurance and Testing
+Regression Testing
+RSpec
+Ruby - RSpec Unit Tests
+Security Testing
+Tape
+Test Automation
+Test Case Design
+Test Cases
+Test Documentation
+Test Execution
+Testim
+Testing
+TestNg
+Test Planning
+Test Scenarios
+Test Strategy
+UAT Testing
+ZombieJS
+Tools and Environments
+Integrated Development Environments (IDEs)
+Operating System
+Linux
+Mac
+NAS
+Nix
+RedHat
+ROS
+SAN
+Unix
+Project Management Tools
+Asana
+Confluence
+Jira
+Slack
+Trello
+Whimsical
+ZenHub
+RSpack (Rust)
+Version Control Systems
+Bitbucket
+Git
+Git
+GitHub
+GitLab
+Mercurial
+SCM
+SVN
+SVN
+Teams Foundation Server (TFS)
+Web Technologies
+Accessibility
+Accessibility Standards
+Browser Extensions
+CMS Integration
+Core Web Vitals
+CSS Animations
+Custom Themes
+Data Layer
+Data Layer Implementation
+Ensighten Tag Manager
+Google Optimize
+Google Tag Manager
+Google Tag Manager
+Gutenberg Blocks
+JSON
+Leaflet
+Matomo Tag Manager
+Meta Tags
+Mobile Tagging
+Mustache
+Oracle Commerce (ATG)
+PageSpeed Optimization
+Pagination
+Plugins
+Rendering Optimization
+Routing
+SASS - Mixins
+SCSS/SASS
+SEM - PPC
+SEO
+SSR
+Structured Data
+Tag Management
+Tealium IQ
+Technical SEO
+UI Performance Optimization
+Video Streaming
+WCAG Audit
+UI Design
+AI & Design Automation
+Analytics & Performance
+Color Theory
+Data-Driven Design
+Data Visualization
+Design Systems
+Ethnographic Research
+Graphic Design
+Graphic Design
+Layout Design
+Product & Service Design
+Responsive Design
+Sketching
+Storyboarding
+Style Guides
+Tools
+UI Design
+UI Design
+UX Design
+UX Writing
+Video & Animation
+Visualization Design
+Wireframing
+Department
+Industries
+Uncategorized
