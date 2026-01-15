@@ -166,43 +166,68 @@ I enjoy working close to system internals such as performance tuning, reliabilit
   </section>
 
   <section id="experience">
-    <div class="wrap">
-      <div class="section-head"><h2>Work Experience</h2><div class="rule"></div></div>
-      <div class="grid twocol">
-        <div class="xp-item">
-          <div class="xp-top">
-            <div class="role">Software Engineer at Infosys Ltd.</div>
-            <div class="meta">Jul 2022 – Jul 2023</div>
-        </div>
-          <ul>
-            <li>I worked on security-critical Identity and Access Management systems used by large enterprise applications.</li>
-            <li>My role focused on building backend microservices for authentication, authorization, and role-based access control, along with automating access policies using event-driven cloud workflows.</li>
-            <li>I also deployed and operated these services on Kubernetes, improving reliability and performance in production environments.</li>
-          </ul>
-        </div>
-        <div class="xp-item">
-          <div class="xp-top">
-            <div class="role">Software Engineer at Cognizant</div>
-            <div class="meta">Jan 2022 – Jun 2022</div>
-          </div>
-          <ul>
-            <li>I helped build distributed debugging and data processing systems to investigate failures across multi-region cloud deployments.</li>
-            <li>This involved correlating large datasets to trace execution paths, designing serverless workflows, and running large-scale data processing jobs to speed up root-cause analysis for production issues.</li>
-          </ul>
-        </div>
-        <div class="xp-item">
-          <div class="xp-top">
-            <div class="role">Software Engineer at PraxisLogica</div>
-            <div class="meta">Jul 2021 – Dec 2021</div>
-          </div>
-          <ul>
-            <li>I worked on backend systems handling high-throughput transaction processing.</li>
-            <li>I re-designed a monolithic engine into a distributed architecture, deployed services on Kubernetes, and built internal dashboards to monitor system health and performance during load and benchmark testing.</li>
-          </ul>
-        </div>
-      </div>
+  <div class="wrap">
+    <div class="section-head">
+      <h2>Work Experience</h2>
+      <div class="rule"></div>
     </div>
-  </section>
+
+    <div class="grid twocol">
+      <div class="xp-item">
+        <div class="xp-top">
+          <div class="role">Research Engineer at Integrated Travel</div>
+          <div class="meta">Jul 2025 - Present</div>
+        </div>
+        <ul>
+          <li>Built and maintained a versioned corridor analytics platform in Python that consolidates multi source transportation datasets, standardizes metrics, and publishes decision ready feasibility outputs.</li>
+          <li>Implemented demand and ridership forecasting baselines using gravity and mode choice modeling, enabling scenario comparisons across frequency, travel time, fares, access, and reliability assumptions for priority city pairs.</li>
+          <li>Automated validation, scenario testing, and run level traceability so results stayed reproducible and reviewable in weekly stakeholder reviews.</li>
+          <li>Ran sensitivity sweeps and produced evidence backed summaries to explain ranking drivers, quantify uncertainty, and support decision making discussions.</li>
+        </ul>
+      </div>
+
+      <div class="xp-item">
+        <div class="xp-top">
+          <div class="role">Software Engineer at Infosys Ltd.</div>
+          <div class="meta">Jul 2022 - Jul 2023</div>
+        </div>
+        <ul>
+          <li>Engineered a Java and Python microservices ecosystem for IAM with OAuth2, OIDC, and fine grained RBAC, sustaining p99 latency under 200ms for 300k plus monthly requests via Redis caching and tuned connection pooling.</li>
+          <li>Built a serverless provisioning engine with AWS Lambda, SQS, and DynamoDB Streams to automate IAM policy lifecycle management, enabling instant multi tenant isolation with zero manual work.</li>
+          <li>Optimized AWS EKS deployments using HPA and custom health probes, cutting tail latency by 30% and maintaining 99.9% uptime for mission critical authentication services.</li>
+          <li>Implemented observability with OpenTelemetry, CloudWatch, and Grafana to reduce MTTR by 50%, and shipped an internal SSO and admin dashboard in React and TypeScript for token lifecycle management and role auditing.</li>
+        </ul>
+      </div>
+
+      <div class="xp-item">
+        <div class="xp-top">
+          <div class="role">Software Engineer Intern at Cognizant</div>
+          <div class="meta">Jan 2022 - Jun 2022</div>
+        </div>
+        <ul>
+          <li>Built modular backend services in Java and Spring Boot using Domain Driven Design to separate domain logic from infrastructure and improve maintainability.</li>
+          <li>Added Resilience4j circuit breaker and retry patterns to prevent cascading failures across services and improve fault tolerance in outage simulations.</li>
+          <li>Developed and optimized REST APIs with Spring MVC and generated OpenAPI documentation via SpringDoc to speed up integration and onboarding.</li>
+          <li>Improved PostgreSQL performance via Spring Data JPA and Hibernate tuning, and drove quality with JUnit 5, Mockito, and Testcontainers to reach 90% test coverage and catch 20 plus critical bugs before QA.</li>
+        </ul>
+      </div>
+
+      <div class="xp-item">
+  <div class="xp-top">
+    <div class="role">Software Engineer at PraxisLogica</div>
+    <div class="meta">Jul 2021 to Dec 2021</div>
+  </div>
+  <ul>
+    <li>Built backend services for a high throughput transaction processing platform, focusing on correctness, idempotency, and predictable latency under load.</li>
+    <li>Decomposed a monolithic processing engine into independently deployable services with clear domain boundaries, improving scalability and isolating failures.</li>
+    <li>Containerized services and deployed on Kubernetes with structured configs and environment parity, enabling safer rollouts and faster iteration cycles.</li>
+    <li>Implemented operational visibility with structured logging, metrics, and internal dashboards for load and benchmark testing, speeding up bottleneck detection and incident debugging.</li>
+  </ul>
+</div>
+    </div>
+  </div>
+</section>
+
 
   <section id="projects">
     <div class="wrap">
@@ -320,8 +345,8 @@ I enjoy working close to system internals such as performance tuning, reliabilit
       <div class="section-head"><h2>Contact Me</h2><div class="rule"></div></div>
       <div class="glass" style="padding:18px">
         <div class="kvs">
-          <!-- <a class="kv" href="mailto:mthatte@asu.edu">mthatte@asu.edu</a> -->
           <a class="kv" href="mailto:mrugankthatte@gmail.com">mrugankthatte@gmail.com</a>
+          <a class="kv" href="mailto:mthatte@asu.edu">mthatte@asu.edu</a>
           <a class="kv" href="https://github.com/mrugankthatte55" target="_blank" rel="noopener">GitHub</a>
           <a class="kv" href="https://www.linkedin.com/in/mrugankthatte/" target="_blank" rel="noopener">LinkedIn</a>
         </div>
